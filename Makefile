@@ -1,3 +1,5 @@
+CFLAGS=-std=c99
+
 all: encoder decoder
 
 encoder: encoder.c
