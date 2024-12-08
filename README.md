@@ -6,11 +6,10 @@ Posting ASCII messages made up of 0 and 1 characters is becoming popular. This i
 To build
 --------
 
-    Make
+    make
 
 To run
 ------
 
     echo message|./encoder
-
 	echo 0110110101100101011100110111001101100001011001110110010100001010|./decoder
